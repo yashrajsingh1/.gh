@@ -102,6 +102,3 @@ Ensure you have the following installed:
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements.
-
-## Contact
-For any queries, reach out to 1aryantyagi@gmail.com 
